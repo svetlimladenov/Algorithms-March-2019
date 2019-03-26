@@ -103,11 +103,11 @@ namespace _06._Queens_Puzzle
                 {
                     if (matrix[i][j] == 1)
                     {
-                        Console.Write("*");
+                        Console.Write("* ");
                     }
                     else
                     {
-                        Console.Write("-");
+                        Console.Write("- ");
                     }
                     
                 }
